@@ -213,7 +213,9 @@
     "worktree",
     "worktrees",
     "dontAsk",
-    "VikalpP"
+    "VikalpP",
+    "sandboxed",
+    "pycache"
   ],
   "ignoreWords": [
     "luongnv89",
